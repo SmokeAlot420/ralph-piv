@@ -117,9 +117,16 @@ piv/
         └── assets/
 ```
 
+## Credits
+
+The **PIV Loop** (Plan-Implement-Validate) was created by [Cole Medin](https://github.com/coleam00) and [Rasmus Widing](https://github.com/rasmuswiding) as part of the [Dynamous Community](https://community.dynamous.ai) [Agentic Coding Course](https://github.com/dynamous-community/agentic-coding-course). Rasmus also created the **PRP (Project Requirements Plan) framework** that Ralph PIV builds on.
+
+Ralph PIV packages their methodology into a Claude Code plugin with automated sub-agent orchestration, independent validation, and targeted debugging loops.
+
 ## Related
 
 - **[CLUTCH](https://github.com/SmokeAlot420/clutch)** — Parallel execution with Agent Teams. When your phases have parallelizable work, CLUTCH splits it across 2-4 executor agents working simultaneously.
+- **[Agentic Coding Course](https://github.com/dynamous-community/agentic-coding-course)** — The course where the PIV Loop and PRP framework originated. By Cole Medin & Rasmus Widing.
 
 ## License
 
