@@ -1,0 +1,11 @@
+{
+  "name": "piv",
+  "version": "1.0.0",
+  "description": "PIV — Plan-Implement-Validate. Solo AI dev workflow with deep analysis, context-rich plans, and independent validation.",
+  "author": {
+    "name": "smoke"
+  },
+  "homepage": "https://github.com/SmokeAlot420/piv",
+  "license": "MIT",
+  "keywords": ["piv", "plan-implement-validate", "workflow", "validation", "prp", "prd", "solo", "claude-code"]
+}

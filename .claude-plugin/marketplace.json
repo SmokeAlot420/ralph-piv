@@ -1,0 +1,8 @@
+{
+  "plugins": [{
+    "name": "piv",
+    "source": ".",
+    "description": "Solo AI dev workflow — deep analysis, context-rich plans, independent validation",
+    "version": "1.0.0"
+  }]
+}
