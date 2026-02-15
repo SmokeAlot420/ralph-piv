@@ -126,6 +126,7 @@ Ralph PIV packages their methodology into a Claude Code plugin with automated su
 ## Related
 
 - **[CLUTCH](https://github.com/SmokeAlot420/clutch)** — Parallel execution with Agent Teams. When your phases have parallelizable work, CLUTCH splits it across 2-4 executor agents working simultaneously.
+- **[TeamBox](https://github.com/SmokeAlot420/teambox)** — Real-time dashboard for monitoring your Ralph PIV and CLUTCH agent sessions.
 - **[Agentic Coding Course](https://github.com/dynamous-community/agentic-coding-course)** — The course where the PIV Loop and PRP framework originated. By Cole Medin & Rasmus Widing.
 
 ## License
